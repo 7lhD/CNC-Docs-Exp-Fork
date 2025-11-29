@@ -18,11 +18,36 @@ Bienvenido a la documentación oficial del Laboratorio de Mecanizado CNC. Este r
 
 ## Navegación Rápida
 
-{% cards %}
-{% card title="Centro de Maquinado" description="Guías de operación para Fresadoras, Tornos y Routers" link="1-centro-de-maquinado/1.1-fresadoras" icon="⚙️" %}
-{% card title="Herramientas Universales" description="Códigos G/M, Calculadoras y Software" link="2-herramientas-universales/2.1-referencia-programacion" icon="🛠️" %}
-{% card title="Gestión Documental" description="Descarga de manuales, checklists y plantillas" link="3-gestion-documental/3.1-centro-descargas" icon="📂" %}
-{% endcards %}
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+      <th data-hidden data-card-cover data-type="files"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>⚙️ Centro de Maquinado</strong></td>
+      <td>Guías de operación para Fresadoras, Tornos y Routers.</td>
+      <td><a href="1-centro-de-maquinado/1.1-fresadoras">1-centro-de-maquinado/1.1-fresadoras</a></td>
+      <td>⚙️</td>
+    </tr>
+    <tr>
+      <td><strong>🛠️ Herramientas Universales</strong></td>
+      <td>Códigos G/M, Calculadoras y Software.</td>
+      <td><a href="2-herramientas-universales/2.1-referencia-programacion">2-herramientas-universales/2.1-referencia-programacion</a></td>
+      <td>🛠️</td>
+    </tr>
+    <tr>
+      <td><strong>📂 Gestión Documental</strong></td>
+      <td>Descarga de manuales, checklists y plantillas.</td>
+      <td><a href="3-gestion-documental/3.1-centro-descargas">3-gestion-documental/3.1-centro-descargas</a></td>
+      <td>📂</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Máquinas Destacadas
 
