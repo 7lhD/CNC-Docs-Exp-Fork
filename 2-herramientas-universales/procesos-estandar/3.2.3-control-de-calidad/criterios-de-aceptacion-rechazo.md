@@ -1,0 +1,2 @@
+# Criterios de aceptación/rechazo
+
