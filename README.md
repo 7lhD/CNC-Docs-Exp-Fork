@@ -36,3 +36,34 @@ Bienvenido a la documentación oficial del Laboratorio de Mecanizado CNC. Este r
 <table data-view="cards"><thead><tr><th>Título</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>⚙️ Centro de Maquinado</strong></td><td><a href="1-centro-de-maquinado/1.1-fresadoras">Guías de operación para Fresadoras, Tornos y Routers.</a></td></tr><tr><td><strong>🛠️ Herramientas Universales</strong></td><td>Códigos G/M, Calculadoras y Software.</td></tr><tr><td><strong>📂 Gestión Documental</strong></td><td>Descarga de manuales, checklists y plantillas.</td></tr></tbody></table>
 
 ## Máquinas Destacadas
+
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th data-hidden data-card-target data-type="content-ref">Enlace</th>
+      <th data-hidden data-card-cover data-type="files">Icono</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🎓 Emco Compact</strong></td>
+      <td>Torno didáctico para iniciación.</td>
+      <td><a href="1-centro-de-maquinado/1.2-tornos/didacticos/emco-compact">1-centro-de-maquinado/1.2-tornos/didacticos/emco-compact</a></td>
+      <td>🎓</td>
+    </tr>
+    <tr>
+      <td><strong>🏭 GSK CNC210</strong></td>
+      <td>Torno industrial de producción.</td>
+      <td><a href="1-centro-de-maquinado/1.2-tornos/industriales/cnc210">1-centro-de-maquinado/1.2-tornos/industriales/cnc210</a></td>
+      <td>🏭</td>
+    </tr>
+    <tr>
+      <td><strong>📐 Optimill F80</strong></td>
+      <td>Centro de fresado CNC.</td>
+      <td><a href="1-centro-de-maquinado/1.1-fresadoras/optimill-f80">1-centro-de-maquinado/1.1-fresadoras/optimill-f80</a></td>
+      <td>📐</td>
+    </tr>
+  </tbody>
+</table>
