@@ -1,5 +1,5 @@
 ---
-cover: /assets/images/Picsart_25-10-05_18-35-22-455.jpg
+cover: ../../../../.gitbook/assets/Picsart_25-10-05_18-35-22-455.jpg
 coverY: 379.8653017406322
 layout:
   width: default
@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# CNC XC609T
+# GSK XC609T
 
 ***
 
