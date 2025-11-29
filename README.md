@@ -21,17 +21,17 @@ Bienvenido a la documentación oficial del Laboratorio de Mecanizado CNC. Este r
 <table data-view="cards">
   <thead>
     <tr>
-      <th></th>
-      <th></th>
-      <th data-hidden data-card-target data-type="content-ref"></th>
-      <th data-hidden data-card-cover data-type="files"></th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th data-hidden data-card-target data-type="content-ref">Enlace</th>
+      <th data-hidden data-card-cover data-type="files">Icono</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>⚙️ Centro de Maquinado</strong></td>
       <td>Guías de operación para Fresadoras, Tornos y Routers.</td>
-      <td><a href="1-centro-de-maquinado/1.1-fresadoras">1-centro-de-maquinado/1.1-fresadoras</a></td>
+      <td><a href="1-centro-de-maquinado/1.1-fresadoras">1-centro-de-quinado/1.1-fresadoras</a></td>
       <td>⚙️</td>
     </tr>
     <tr>
