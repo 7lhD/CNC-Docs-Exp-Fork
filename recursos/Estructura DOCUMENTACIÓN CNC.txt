@@ -1,0 +1,151 @@
+DOCUMENTACIÓN: LABORATORIO CNC
+
+═════════════════════════════════════════════════
+
+CABECERA
+│
+└── Introducción
+    │
+    ├── 1.1  Introduccion
+    └── 1.2  Glosario Técnico Esencial
+        ├── Terminología de Maquinado (Husillo, Avance, RPM)
+        ├── Conceptos de Programación CNC
+        └── Abreviaturas Técnicas (ATC, DRO, WCS)
+
+
+
+1. CENTRO DE MAQUINADO Y EQUIPAMIENTO (clasificado en fresadoras, tornos, routers, otros. y dentro de cada sección detallar la Máquina)
+│
+├── 1.1  [Ejemplo: Sección fresadoras / Fresadora CNC Optimum F80]
+│   │
+│   ├── INICIO: CONOCE LA MÁQUINA (Pagina de presentación)
+│   │   ├── Presentación Visual
+│   │   │   ├── Slider de Imágenes (Frontal, Lateral, Interior)
+│   │   │   └── Video Corto de Presentación (Loop)
+│   │   ├── Ficha Técnica Resumida
+│   │   │   ├── Capacidad de Recorrido (X, Y, Z)
+│   │   │   ├── Potencia y Velocidad Máxima
+│   │   │   └── Controlador Instalado
+│   │   └── Equipamiento Auxiliar
+│   │       ├── Compresora Dedicada
+│   │       └── Sistema de Mordazas Instalado
+│   │
+│   ├── PESTAÑA 1: OPERACIÓN Y CONTROL
+│   │   ├── Descripción del Panel de Control
+│   │   │   ├── Mapa Interactivo del Teclado
+│   │   │   ├── Funciones de Botones Principales
+│   │   │   └── Modos de Operación (JOG, MDI, MEM)
+│   │   └── Procedimientos Operativos Estándar (SOP)
+│   │       ├── Fase Pre-Operativa (Checklist de Encendido)
+│   │       ├── Fase Operativa (Carga de Herramienta y Setup)
+│   │       └── Fase Post-Operativa (Limpieza y Apagado)
+│   │
+│   ├── PESTAÑA 2: RECURSOS TÉCNICOS ESPECÍFICOS
+│   │   ├── Códigos de Programación Específicos
+│   │   │   ├── Tabla de Códigos G Soportados
+│   │   │   └── Ciclos Fijos Exclusivos (Siemens/Fanuc)
+│   │   ├── Especificaciones de Tooling y Materiales
+│   │   │   ├── Tipos de Conos y Boquillas Compatibles
+│   │   │   └── Materiales Aptos para Maquinado
+│   │   └── Parámetros de Corte Referenciales
+│   │
+│   ├── PESTAÑA 3: SOFTWARE CAM Y PROYECTOS
+│   │   ├── Post-Procesadores CAM
+│   │   │   ├── Descarga para Fusion 360
+│   │   │   ├── Descarga para Mastercam
+│   │   │   └── Guía de Instalación del Post
+│   │   └── Galería de Proyectos Realizados
+│   │       ├── Pieza Ejemplo 1 (Fotos + Tiempos + Herramientas)
+│   │       └── Pieza Ejemplo 2 (Caso de Estudio)
+│   │
+│   └── PESTAÑA 4: MANTENIMIENTO Y DIAGNÓSTICO
+│       ├── Historial de Mantenimiento
+│       │   └── Vista Incrustada de Registro
+│       └── Solución de Problemas y FAQ
+│           ├── Tabla de Alarmas Comunes
+│           ├── Guía de Solución de Errores Frecuentes
+│           └── Lecciones Aprendidas y Tips de Operador
+│
+├── 1.2  [Ejemplo: Sección Tornos / Torno CNC Serie 210]
+│   └── (Replica la misma estructura de sub-secciones)
+│
+└── 1.3  [Otras Máquinas / Compresora meba, torno convencional]
+    └── (Replica estructura adaptada al equipo)
+
+
+
+2. HERRAMIENTAS UNIVERSALES Y SOFTWARE CNC
+│
+├── 2.1  Referencia de Programación ISO
+│   ├── Diccionario Universal de Códigos G (Movimiento)
+│   ├── Diccionario Universal de Códigos M (Funciones)
+│   └── Estructura Básica de un Bloque de Código (encabezados y pies de código universales)
+│
+├── 2.2  Caja de Herramientas Digital (Calculadoras externas - en internet)
+│   ├── Calculadora de Velocidad de Corte y Avance (RPM/Feed)
+│   ├── Calculadora de Roscado
+│   └── Conversores de Unidades (Imperial <-> Métrico)
+│
+└── 2.3  Ecosistema de Software CAD/CAM/Simulación
+    ├── Herramientas CAD/CAM Recomendadas
+    │   ├── Enlaces a Versiones Educativas y alternativas (Fusion 360, SolidWorks)
+    │   └── Requisitos de Sistema
+    └── Simuladores de Código G
+        ├── Simuladores Online (NC Viewer)
+        └── Software de Escritorio (CNCSimulator, CAMotics)
+
+
+
+3. GESTIÓN DOCUMENTAL Y ARCHIVO TÉCNICO
+│
+├── 3.1  Centro de Descargas (Plantillas)
+│   ├── Formatos de Gestión de Mantenimiento (Fichas PDF/XLS)
+│   ├── Hojas de Ruta / Órdenes de Trabajo
+│   └── Checklists de Seguridad Imprimibles
+│
+├── 3.2  Biblioteca Digital de Manuales
+│   ├── Manuales Originales por Fabricante (PDF)
+│   └── Manuales de Controladores (Fanuc, Siemens, Haas)
+│
+└── 3.3  Organización e Infraestructura
+    ├── Layout / Plano de Distribución del Taller
+    └── Diagramas de Flujo de Trabajo General
+
+
+
+4. DESARROLLO PROFESIONAL Y COMUNIDAD
+│
+├── 4.1  Ruta de Aprendizaje (Roadmap)
+│   └── Diagrama Visual de Progreso
+│
+└── 4.2  Recursos Educativos Externos
+    ├── Canales de YouTube Recomendados (Titans of CNC, NYC CNC)
+    ├── Foros Técnicos y Comunidades (Reddit, CNCZone)
+    ├── Repositorios de Modelos 3D (GrabCAD, TraceParts)
+    └── Wikis y Enciclopedias de Mecanizado
+
+
+
+5. EQUIPO DE DESARROLLO Y COLABORADORES
+│
+└── Información del equipo responsable
+    ├── Contacto
+    ├── Descripción breve de los colaboradores
+    └── Créditos del proyecto web
+
+
+
+6. BUZÓN DE SUGERENCIAS Y REPORTE DE ERRORES
+│
+├── Formulario de Sugerencias
+│   └── Envío de mejoras o comentarios generales
+│
+├── Reporte de Errores
+│   └── Fallos en enlaces, contenido o funcionamiento
+│
+└── Historial de Respuestas
+    └── Listado breve de sugerencias implementadas
+
+
+═════════════════════════════════════════════════
+#Gestión de #Mantenimiento y #Ensamble (Prof #GianPaulo) #GitBook #CNC #CNCDocs #Estructura #Documentacion
