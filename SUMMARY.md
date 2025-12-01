@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introducción](README.md)
+  * [abc de cnc](readme/abc-de-cnc.md)
+  * [def del cnc](readme/def-del-cnc.md)
 
 ## 1. CENTRO DE MAQUINADO
 

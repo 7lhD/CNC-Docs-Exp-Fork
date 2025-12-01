@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/Picsart_25-10-05_18-35-22-455.jpg
+cover: /broken/files/yX0zQtXktCWSVjxUME99
 coverY: 379.8653017406322
 layout:
   width: default
